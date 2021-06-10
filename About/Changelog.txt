@@ -1,4 +1,7 @@
 # Changelog for FrontlineAdditionalGunsForBunkers
 
+1.0.1.0 - Browning M2 now uses correct ammo, .50 cal
+
+
 1.0.0.0 - First publish
 

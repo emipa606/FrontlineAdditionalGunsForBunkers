@@ -5,6 +5,9 @@
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1547118378
 with permission
+If you like the mod, show the original author your appreciation here: 
+https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
+
 
 - All guns should now show range when placed
 - 1.0 version should have the correct rotation of the turret
@@ -12,6 +15,15 @@ with permission
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/FrontlineAdditionalGunsForBunkers]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
@@ -43,34 +55,6 @@ These new guns take less time to reload / aka shoot again, but got less bullets 
 Hope you enjoy it, feel free to leave a comment!
 
 IMPORTANT: Load Additional guns after Bunkers.
-
-FRONTLINE-Collection:
-
-======== [1.0] FRONTLINE - Bunkers ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
-
-======== [1.0] FRONTLINE - Trenches ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1545180996
-
-======== [1.0] FRONTLINE - Additional Guns for Trenches ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
-
-======== [1.0] FRONTLINE - Trenches without guns ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1547133402
-
-Combat Extended ready Versions:
-
-======== [1.0] FRONTLINE - Trenches for Combat Extended========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1661095385
-
-======== [1.0] FRONTLINE - Bunkers CE Version ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1680522114
-
-
-If you enjoy my work, please consider buying me a coffee/beer.
-
- https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
-
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 
