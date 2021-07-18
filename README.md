@@ -32,7 +32,7 @@ https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won't spawn with MGs in Inventory during raid
+- Bug Fix: Enemys won&apos;t spawn with MGs in Inventory during raid
 =====================
 
 =====Changelog=====
