@@ -44,7 +44,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoLMGII</li>
+            <li>BK_AmmoLMGII</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>36</fuelCapacity>
@@ -56,7 +56,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/LMGII/TR_Cartridgebelt_LMGII</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/LMGII/BK_Cartridgebelt_LMGII</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
@@ -165,7 +165,7 @@
         <range>30</range>
         <burstShotCount>6</burstShotCount>
         <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
-        <soundCast>TR_LMGII_Fire</soundCast>
+        <soundCast>BK_LMGII_Fire</soundCast>
         <muzzleFlashScale>20</muzzleFlashScale>
         <targetParams>
           <canTargetLocations>false</canTargetLocations>
@@ -219,7 +219,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoMMGII</li>
+            <li>BK_AmmoMMGII</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>36</fuelCapacity>
@@ -231,7 +231,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/MMGII/TR_Cartridgebelt_MMGII</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/MMGII/BK_Cartridgebelt_MMGII</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
@@ -340,7 +340,7 @@
         <range>30</range>
         <burstShotCount>6</burstShotCount>
         <ticksBetweenBurstShots>5</ticksBetweenBurstShots>
-        <soundCast>TR_MMGII_Fire</soundCast>
+        <soundCast>BK_MMGII_Fire</soundCast>
         <muzzleFlashScale>20</muzzleFlashScale>
         <targetParams>
           <canTargetLocations>false</canTargetLocations>
@@ -394,7 +394,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoHMGII</li>
+            <li>BK_AmmoHMGII</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>48</fuelCapacity>
@@ -406,7 +406,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/HMGII/TR_Cartridgebelt_HMGII</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/HMGII/BK_Cartridgebelt_HMGII</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
@@ -515,7 +515,7 @@
         <range>30</range>
         <burstShotCount>8</burstShotCount>
         <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
-        <soundCast>TR_HMGII_Fire</soundCast>
+        <soundCast>BK_HMGII_Fire</soundCast>
         <muzzleFlashScale>20</muzzleFlashScale>
         <targetParams>
           <canTargetLocations>false</canTargetLocations>

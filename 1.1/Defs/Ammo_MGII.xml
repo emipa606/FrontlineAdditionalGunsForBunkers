@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ========== LMGII ========== -->
-  <ThingDef Name="TR_AmmoLMGII">
+  <ThingDef Name="BK_AmmoLMGII">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -13,13 +13,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoLMGII</defName>
+    <defName>BK_AmmoLMGII</defName>
     <label>Drum magazine for lewis gun</label>
     <description>Drum magazine for lewis gun</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/LMGII/TR_Cartridgebelt_LMGII</texPath>
+      <texPath>Things/Building/Mounted/Ammo/LMGII/BK_Cartridgebelt_LMGII</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -37,7 +37,7 @@
     </comps>
   </ThingDef>
   <!-- ========== MMGII ========== -->
-  <ThingDef Name="TR_AmmoMMGII">
+  <ThingDef Name="BK_AmmoMMGII">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -49,13 +49,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoMMGII</defName>
+    <defName>BK_AmmoMMGII</defName>
     <label>Drum magazine for DP 1928</label>
     <description>Drum magazine for DP 1928</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/MMGII/TR_Cartridgebelt_MMGII</texPath>
+      <texPath>Things/Building/Mounted/Ammo/MMGII/BK_Cartridgebelt_MMGII</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -73,7 +73,7 @@
     </comps>
   </ThingDef>
   <!-- ========== HMGII ========== -->
-  <ThingDef Name="TR_AmmoHMGII">
+  <ThingDef Name="BK_AmmoHMGII">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -85,13 +85,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoHMGII</defName>
+    <defName>BK_AmmoHMGII</defName>
     <label>Catridge belt for Browning M.2</label>
     <description>Catridge belt for Browning M.2</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/HMGII/TR_Cartridgebelt_HMGII</texPath>
+      <texPath>Things/Building/Mounted/Ammo/HMGII/BK_Cartridgebelt_HMGII</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>

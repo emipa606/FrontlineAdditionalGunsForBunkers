@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <SoundDef>
-    <defName>TR_MMGII_Fire</defName>
+    <defName>BK_MMGII_Fire</defName>
     <context>MapOnly</context>
     <eventNames />
     <maxVoices>4</maxVoices>
@@ -10,7 +10,7 @@
       <li>
         <grains>
           <li Class="AudioGrain_Clip">
-            <clipPath>Things/TR_MMGII_Fire</clipPath>
+            <clipPath>Things/BK_MMGII_Fire</clipPath>
           </li>
         </grains>
         <volumeRange>
