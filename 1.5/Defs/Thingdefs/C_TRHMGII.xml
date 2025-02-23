@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ================ HMGII ================ -->
   <ThingDef ParentName="BK_BuildingBaseLMG">
@@ -60,6 +60,7 @@
       </li>
     </comps>
     <passability>Impassable</passability>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <castEdgeShadows>false</castEdgeShadows>
     <hasTooltip>true</hasTooltip>
