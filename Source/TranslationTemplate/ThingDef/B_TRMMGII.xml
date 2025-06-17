@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: DP 1928 -->
+  <BK_Base_MMGII.label>DP 1928</BK_Base_MMGII.label>
+  <!-- EN: Machine gun with moderate rate of fire. -->
+  <BK_Base_MMGII.description>Machine gun with moderate rate of fire.</BK_Base_MMGII.description>
+  <!-- EN: Shots remaining -->
+  <BK_Base_MMGII.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</BK_Base_MMGII.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <BK_Base_MMGII.comps.CompRefuelable.fuelLabel>Shots remaining</BK_Base_MMGII.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <BK_Base_MMGII.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</BK_Base_MMGII.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 7.92mm Bullet -->
+  <BK_Bullet_MMGII.label>7.92mm Bullet</BK_Bullet_MMGII.label>
+  <!-- EN: DP 1928 -->
+  <BK_Gun_MMGII.label>DP 1928</BK_Gun_MMGII.label>
+  <!-- EN: Machine gun with moderate rate of fire. -->
+  <BK_Gun_MMGII.description>Machine gun with moderate rate of fire.</BK_Gun_MMGII.description>
+  <!-- EN: DP 1928 -->
+  <BK_Gun_MMGII.verbs.Verb_Shoot.label>DP 1928</BK_Gun_MMGII.verbs.Verb_Shoot.label>
+</LanguageData>

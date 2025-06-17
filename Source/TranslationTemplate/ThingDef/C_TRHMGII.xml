@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Browning M.2 -->
+  <BK_Base_HMGII.label>Browning M.2</BK_Base_HMGII.label>
+  <!-- EN: Machine gun with high rate of fire. -->
+  <BK_Base_HMGII.description>Machine gun with high rate of fire.</BK_Base_HMGII.description>
+  <!-- EN: Shots remaining -->
+  <BK_Base_HMGII.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</BK_Base_HMGII.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <BK_Base_HMGII.comps.CompRefuelable.fuelLabel>Shots remaining</BK_Base_HMGII.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <BK_Base_HMGII.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</BK_Base_HMGII.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 50 cal. Bullet -->
+  <BK_Bullet_HMGII.label>50 cal. Bullet</BK_Bullet_HMGII.label>
+  <!-- EN: Browning M.2 -->
+  <BK_Gun_HMGII.label>Browning M.2</BK_Gun_HMGII.label>
+  <!-- EN: Machine gun with high rate of fire. -->
+  <BK_Gun_HMGII.description>Machine gun with high rate of fire.</BK_Gun_HMGII.description>
+  <!-- EN: Browning M.2 -->
+  <BK_Gun_HMGII.verbs.Verb_Shoot.label>Browning M.2</BK_Gun_HMGII.verbs.Verb_Shoot.label>
+</LanguageData>
